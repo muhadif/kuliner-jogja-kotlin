@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Kuliner Jogja</string>
+    <string name="creator">Muhadif</string>
+    <string name="hobi">Hobi</string>
+    <string name="traveling">Traveling</string>
+    <string name="kuliner">Kuliner</string>
+    <string name="kesukuaan">Kesukaan</string>
+    <string name="creator_fullname">Muhammad Adi Febri Setiawan</string>
+    <string name="kucing">Kucing</string>
+    <string name="profil">Profil</string>
+    <string name="kuliner_lain">Kuliner Lain</string>
+
+    <string-array name="culinary_list_name">
+        <item>Soto Batok Mbah Katro</item>
+        <item>Sego Koyor Bu Parman</item>
+        <item>Oseng Mercon Bu Narti</item>
+        <item>Soto Sampah</item>
+        <item>Nasi Rames Demangan</item>
+        <item>Gudeg Bromo</item>
+        <item>Soto Ayam Kampung Pak Dalbe</item>
+        <item>Jenang Bu Gesti</item>
+        <item>Sate Kere</item>
+        <item>Pecel Sego</item>
+    </string-array>
+
+    <string-array name="culinary_list_img">
+        <item>@drawable/soto_batok</item>
+        <item>@drawable/sego_koyor</item>
+        <item>@drawable/oseng_mercon</item>
+        <item>@drawable/nasi_rames</item>
+        <item>@drawable/soto_sampah</item>
+        <item>@drawable/gudeg_bromo</item>
+        <item>@drawable/pak_dalbe</item>
+        <item>@drawable/jenang</item>
+        <item>@drawable/sate</item>
+        <item>@drawable/pecel</item>
+    </string-array>
+
+    <string-array name="culinary_list_city">
+        <item>Yogyakarta</item>
+        <item>Sleman</item>
+        <item>Kulon Progo</item>
+        <item>Yogyakarta</item>
+        <item>Bantul</item>
+        <item>Yogyakarta</item>
+        <item>Yogyakarta</item>
+        <item>Yogyakarta</item>
+        <item>Yogyakarta</item>
+        <item>Yogyakarta</item>
+    </string-array>
+
+    <string-array name="culinary_list_content">
+        <item>Selain Gudeg, soto juga menjadi salah satu kuliner yang diincar wisatawan bahkan warga lokal sendiri. Nah salah satu soto yang lezat di Jogja adalah Saoto Bathok Mbah Katro. Kuliner Jogja yang satu ini terbilang unik karena penyajiannya menggunakan batok kelapa. Kebanyakan yang mencoba Saoto Mbah Katro ini selalu nambah lho, pasalnya soto yang disajikan di batok, porsinya tak begitu banyak. Kenapa namanya Saoto ya? Ternyata nih, sebutan tesebut berasal daro Solo. Orang Solo kalau nyebutin Soto adalah Saoto. Saoto Batok Mbah Katro, kuahnya super jernih lho, serta dimbahi kecambah dan beberapa lembar potongan daging sapi.
+
+            Di sini kamu tak hanya menikmati soto saja, namun ada beberapa makanan lain yang bisa kamu makna bersama soto. Kalau udah gini, nikmatnya nggak ketolong deh.</item>
+        <item>Kalau kamu mau mencoba kuliner lezat Jogja yang satu ini, harus menunggu matahari turun dulu ya. Sego Koyor Bu Parman yang terletak dekat dengan perempatan Gondomanan ini hanya bisa kamu santap di malam hari. Warungnya persis dipinggi jalan, jadi kamu nggak akan kesulitan untuk menemui tempat ini.
+
+            Sego Koyor ini buka jam 10 malam hingga menjelang subuh. Sego Koyor sendiri berupa urat sapi yang dimasak dengan berbagai bumbu dan santan. Untuk bisa menikmati sepiring Sego Koyor, kamu cukup membayar Rp 13.000 saja. Menikmati kuliner Jogja tengah malam, pasti rasanya syahdu banget ya.</item>
+        <item>Kuliner ini bisa kamu dapatkan di daerah Kauman. Jika kamu pecinta makanan pedas, Oseng Mercon Bu Narti ini cocok dilidahmu. Isi dalam oseng mercon ini terbilang cukup sederhana, karena hanya terdiri dari kikil, gajih, serta tulang muda. Siap-siap saja ya, ketika kamu mencoba oseng mercon bu Narti ini lidah kalian terasa kebakar, pedasnya gila. Kuliner ini hanya dibandrol Rp 15.000 saja.</item>
+        <item>Kuliner ini terdapat di utara Tugu Jogja, tepatnya di pasar Kranggan. Soto satu ini sudah cukup terkenal, selain namanya yang unik, kuliner ini juga memiliki cita rasa yang nikmat banget. Kebanyakan yang datang berkunjung ke Soto Sampah adalah anak muda. Soto Sampah ini buka dari jam 7 pagi hingga 3 pagi, cukup lama bukan? Nah yang menariknya lagi adalah harganya yang super duper murah, cuma Rp 5.000 saja, gimana? murah banget kan?</item>
+        <item>Kalau kamu berencana ke Jogja dengan budget pas-pasan, kamu harus bisa memilih tempat makan yang murah meriah. Pada dasarnya Jogja memang dikenal murah, namun jika kamu mau mencari-cari tempat yang lebih murah di Jogja ada kok. Salah satunya Nadi Rames Demangan ini. Makanan ini terletak dipinggi jalan. Di sini kamu bisa menikmati deretan sayur bercita rasa pedas dan lauk untuk tambahannya. Harganya cukup murah lho, cuma Rp 7.500 saja, murah dan mengeyangkan.</item>
+        <item>Gudeg Bromo bisa kamu santap dini hari, tapi kamu harus bersabar dan membudayakan untuk antri ya. Pembeli Gudeg Bromo ini membludak menjelang diri hari. Terletak di Jalan Gekayan, hanya berupa warung lesehan biasa. Di sini kamu akan ditawarkan makanan khas Jogja gudeg, dan sambal kreceknya. Kamu juga bisa memilih lauk, seperti ayam suwir, telur atau sekedar tempe goreng saja.</item>
+        <item>Soto memang menjadi ciri khas dari setiap daerah dan itu memiliki bentuk dan cita rasa yang berbeda pula. Sama halnya dengan Jogja, sotonya juga memiliki ciri khas tersendiri. Soto biasanya paling enak di santap pada pagi hari, bahkan mejelang siangpun masih ada yang ingin menikmati kesegarannya.
+
+            Soto Ayam Kampung Pak Dalbe, mengandalkan kaldu soto jernih, dengan cita rasa gurih manis. Harganya juga terbilang cukup murah, hanya Rp 10.000 saja kamu sudah bisa menikmati kesegaran soto pak Dalbe.</item>
+        <item>Saat pagi hari, sambiul menikmati kota Jogja, kamu coba mampir dan ke pasar Lempuyangan, di sana kamu bisa menemukan kuliner yang cocok banget untuk sarapan, yaitu jenang Bu Gesti. Sajian berupa jenang candil atau mungkin lebih dikenal dengan bubur biji salak, serta ada toppingnya seperti bubur sumsum dan jenang mutiara. Harga untuk satu Jenang Bu Gesti ini cuma Rp 4.000 saja.</item>
+        <item>Kalau kamu jalan-jalan ke Malioboro, kamu akan menjumpai disepanjang jalan penjual sate. Namun ada salah satu sate yang menarik perhatian wisatawan, namanya sate kere. Sate ini berbahan dasar gajih, bagian lemak ini kalau dibakar pasti mengguah selera siapapun yang lewat. Sesuai namanya sate kere, harganya juga cukup murah, satu tusuknya hanya Rp 2.000 saja.</item>
+        <item>Masih di kawasan Malioboro, didepan pintu masuk Pasar Bringharjo, kamu akan menjumpai penjual makanan salah satunya penjual pecel. Pecel di sini, enak banget. Dinikmati di tengah kerumunan orang dan kebisingan para pengamen. Suasanana sepeti ini susah ditemui lho, belum lagi kamu harus duduk berdesak-desakan sama pengunjung yang lain.
+
+            Yang membuat pecel ini khas, adalah pilihan sayurannya yang cukup banyak. Bahkan lebih bervariasi jika dibandingkan dengan pecel-pecel lainnya. Ada Kangkung, tauge, daun pepaya, kembang turi, kenikir, bungan pepaya dan masih banyak lainnya lagi.</item>
+    </string-array>
+</resources>
